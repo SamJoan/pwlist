@@ -1,0 +1,4 @@
+admin
+root
+123456
+skip

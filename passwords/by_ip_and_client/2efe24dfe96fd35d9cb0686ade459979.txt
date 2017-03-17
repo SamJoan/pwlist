@@ -1,0 +1,13 @@
+admin
+password
+support
+root
+guest
+user
+1234
+test
+default
+operator
+uucp
+sshd
+123456

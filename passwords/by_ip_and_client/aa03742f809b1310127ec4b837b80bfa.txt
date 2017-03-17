@@ -1,0 +1,4 @@
+ubnt
+root
+admin
+telnet

@@ -1,0 +1,14 @@
+<Any pass>
+admin
+service
+openelec
+1234
+sshd
+monitor
+default
+support
+root
+test
+password
+ubnt
+raspberry

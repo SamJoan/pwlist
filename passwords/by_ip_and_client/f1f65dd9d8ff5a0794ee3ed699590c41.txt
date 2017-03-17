@@ -1,0 +1,9 @@
+user
+12345
+support
+admin
+1234
+root
+default
+ubnt
+operator

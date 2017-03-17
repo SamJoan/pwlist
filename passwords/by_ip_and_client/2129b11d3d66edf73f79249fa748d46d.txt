@@ -1,0 +1,3 @@
+admin
+ubnt
+root

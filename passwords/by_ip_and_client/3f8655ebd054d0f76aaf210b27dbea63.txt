@@ -1,0 +1,17 @@
+tsbot
+avnbot
+mcserv
+bot
+musicbot
+qlserver
+ts3server
+gmodserver
+ikerneii
+thorbast
+pyload
+ts3
+sinusbot
+steam
+confluence
+server247
+konsti
