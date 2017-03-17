@@ -1,8 +1,0 @@
-default
-password
-1234
-admin
-raspberry
-alpine
-openelec
-root

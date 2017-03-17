@@ -1,8 +1,0 @@
-ubnt
-admin
-root
-guest
-password
-support
-test
-user

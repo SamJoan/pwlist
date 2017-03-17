@@ -1,6 +1,0 @@
-1234
-123456
-admin
-password
-support
-ftp

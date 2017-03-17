@@ -1,4 +1,0 @@
-skip
-admin
-root
-123456

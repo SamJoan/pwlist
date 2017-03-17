@@ -1,4 +1,0 @@
-ubnt
-ftpuser
-ghost
-123123

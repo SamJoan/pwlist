@@ -1,16 +1,18 @@
 from os import mkdir
 from os.path import isfile
 from pwlistgen.common import c, tidy_mod
-from pwlistgen.modules import by_ip_and_client
+from pwlistgen.modules import *
 import sqlite3
 
 OUT_PATH = "passwords/"
 DB_PATH = "/tmp/cowrie.db"
 ENABLED_MODS = [
-    by_ip_and_client
+    by_client,
+    by_ip,
+    by_ip_and_client,
 ]
 
-def get_db():
+def get_db() -> sqlite3.Connection:
     if not isfile(DB_PATH):
         print("[+] DB doesn't exist, getting.")
         c("scp honeypot:/home/cowrie/cowrie/cowrie.db /tmp/")

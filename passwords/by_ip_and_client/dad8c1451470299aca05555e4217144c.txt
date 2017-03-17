@@ -1,6 +1,0 @@
-admin123
-password
-1234
-12345
-123456
-root

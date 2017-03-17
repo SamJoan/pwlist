@@ -1,4 +1,0 @@
-ubnt
-root
-admin
-telnet
